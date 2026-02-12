@@ -1,8 +1,9 @@
 # Database-for-Analytics-Exercise-05
 ##Query Dates in Postgres SQL Admin 4, Arrays, Dates, Data, Jason and Json B
-## Name: Vashti Gambol
-## Database for Analytics
-## Database used: Postgres SQL Query, sample data
+### Name: Vashti Gambol
+### February 13,2026
+### Database for Analytics
+### Database used: Postgres SQL Query, sample data
 
 # Explanation:
 ### * In this Module 5 we learn to query and use tools to query data structures such as Array- a data structure that holds a collection of data in rows and columns with values and variables.
