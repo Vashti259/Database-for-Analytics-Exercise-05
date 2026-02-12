@@ -7,4 +7,4 @@
 # Explanation:
 ### * In this Module 5 we learn to query and use tools to query data structures such as Array- a data structure that holds a collection of data in rows and columns with values and variables.
 ### * We will Learn to query data with Jason and Jason B data
-### * We will query dates and complex data,in postgresql.
+### * We will query dates and complex data in postgresql.
